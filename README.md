@@ -1,2 +1,2 @@
 # Customer-Analytics
-The section contains a case study on Customer Analytics
+The section contains an case study on Customer Analytics
